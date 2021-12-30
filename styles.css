@@ -1,0 +1,100 @@
+h1 {
+  margin: 0;
+  padding: 20px 5;
+  color: black;
+  
+
+}
+
+
+body {
+	background-image: url('images/background.jpeg');
+    background-size: 110%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+	
+}
+h3 {
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+}
+h4 {
+	color: black;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+#text {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+#histoire {
+    color: white;
+    font-family: 'Readex Pro', sans-serif;
+    text-shadow: 2px 2px black;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border-radius: 10px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+#logo {
+    width: 30%;
+    display: block;
+   margin: 0 auto;
+
+}
+
+#story {
+    color: white;
+}
+
+iframe {
+   display: block;
+   margin: 0 auto;
+}
+
+
+#container {
+    background: white;
+    width: 1000px;
+    color: black;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+#text {
+
+}
